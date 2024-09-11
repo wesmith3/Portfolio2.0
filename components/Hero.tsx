@@ -32,7 +32,7 @@ function Hero() {
             words="Transforming Concepts into Seamless User Experiences"
             />
             <p className="text-center md:tracking-wider mb-4 text-small md:text-lg lg:text-2xl">
-                Hi I&apos;m Wesley, a Full Stack Developer based in Seattle, WA
+                Hi I&apos;m Wesley, a Full Stack Developer based in Chelan, WA
             </p>
 
             <a href="#about">
