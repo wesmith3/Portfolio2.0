@@ -1,6 +1,7 @@
 import React from "react";
 import { Spotlight } from "./ui/Spotlight";
 import { TextGenerateEffect } from "./ui/TextGenerateEffect";
+import MagicButton from "./ui/MagicButton";
 
 function Hero() {
   return (
@@ -31,6 +32,13 @@ function Hero() {
             <p className="text-center md:tracking-wider mb-4 text-small md:text-lg lg:text-2xl">
                 Hi I&apos;m Wesley, a Full Stack Developer based in Seattle, WA
             </p>
+
+            <a href="#about">
+              <MagicButton 
+                title="Show my work"
+              />
+
+            </a>
         </div>
 
       </div>
