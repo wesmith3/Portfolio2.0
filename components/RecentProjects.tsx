@@ -10,7 +10,7 @@ function RecentProjects() {
         A small selection of {' '}
         <span className='text-orange-500'>recent projects</span>
       </h1>
-      <div className='flex flex-wrap items-center justify-center p-4 gap-16 mt-10'>
+      <div className='flex flex-wrap items-center justify-center p-4 gap-16 lg:gap-10 mt-10'>
         {projects.map(({ id, title, des, img, iconLists, link }) => (
           <div key={id} className='lg:min-h-[32.5rem] h-[25rem] flex items-center justify-center sm:w-96 w-[80vw]'>
             <PinContainer title={link} href={link}>
@@ -21,7 +21,7 @@ function RecentProjects() {
                 <img 
                   src={img}
                   alt={title}
-                  className='z-10 absolute bottom-0'
+                  className='z-10 absolute bottom-0 rotate-[2.5deg]'
                   />
               </div>
               <h1 className='font-bold lg:text-2xl md:text-xl text-base line-clamp-1'>
@@ -41,8 +41,8 @@ function RecentProjects() {
                 </div>
 
                 <div className='flex justify-center items-center'>
-                  <p className='flex lg:text-xl md:text-xs text-sm text-orange-500'>Check Live Site</p>
-                  <FaLocationArrow  className='ms-3' color='#CBACF9'/>
+                  <p className='flex lg:text-l md:text-xs text-sm text-orange-500'>Check Live Site</p>
+                  <FaLocationArrow  className='ms-3' color='#f97316'/>
                 </div>
               </div>
             </PinContainer>
