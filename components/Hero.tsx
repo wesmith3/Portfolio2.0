@@ -28,8 +28,8 @@ function Hero() {
                 Dynamic Web Magic with Next.JS
             </h2>
             <TextGenerateEffect 
-            className="text-center text-[40px] md:text-5xl lg:text-6xl"
-            words="Transforming Concepts into Seamless User Experiences"
+            className="text-center text-[60px] md:text-5xl lg:text-6xl"
+            words="Hello I&apos;m Wesley Smith, Full Stack Developer"
             />
             <p className="text-center md:tracking-wider mb-4 text-small md:text-lg lg:text-2xl">
                 Hi I&apos;m Wesley, a Full Stack Developer based in Chelan, WA
