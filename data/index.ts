@@ -76,7 +76,7 @@ export const navItems = [
       des: "Movie production company",
       img: "/CloudBased.jpeg",
       iconLists: ["/ts.svg", "/react.svg", "/next.svg", "/node.svg", "/tail.svg"],
-      link: "https://github.com/adrianhajdin?tab=repositories",
+      link: "https://github.com/wesmith3/Cloud-Based-Studios",
     },
     {
       id: 2,
@@ -84,7 +84,7 @@ export const navItems = [
       des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
       img: "/Vignette.jpeg",
       iconLists: ["/js.svg", "/react.svg", "/python.svg", "/flask.svg"],
-      link: "https://github.com/adrianhajdin/zoom-clone",
+      link: "https://github.com/wesmith3/Vignette",
     },
     {
       id: 3,
@@ -92,32 +92,8 @@ export const navItems = [
       des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
       img: "/VintageVista.jpeg",
       iconLists: ["/ts.svg", "/next.svg", "/node.svg", "/express.svg", "/mongo.svg", "/aws.svg"],
-      link: "https://github.com/adrianhajdin/ai_saas_app",
-    },
-    {
-      id: 4,
-      title: "Lake Dragon Brewing Co.",
-      des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-      img: "/p4.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://github.com/adrianhajdin/iphone",
-    },
-    {
-      id: 5,
-      title: "Local Myth Pizza",
-      des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-      img: "/p4.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://github.com/adrianhajdin/iphone",
-    },
-    {
-      id: 6,
-      title: "Autotech Trax",
-      des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-      img: "/p4.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://github.com/adrianhajdin/iphone",
-    },
+      link: "https://github.com/wesmith3/Vintage-Vista-Vineyards",
+    }
   ];
   
   export const testimonials = [
