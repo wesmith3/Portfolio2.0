@@ -32,7 +32,7 @@ function Hero() {
             words="I&apos;m Wesley Smith, Full Stack Developer"
             />
             <p className="text-center md:tracking-wider mb-4 text-small md:text-lg lg:text-2xl">
-                I&apos;m Wesley, a Full Stack Developer based in Chelan, WA
+                Based in Chelan, WA
             </p>
 
             <a href="#about">
