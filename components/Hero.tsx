@@ -35,7 +35,7 @@ function Hero() {
                 Based in Chelan, WA
             </p>
 
-            <a href="#about">
+            <a href="#projects">
               <MagicButton 
                 title="Show My Work"
                 icon={<FaLocationArrow />}
