@@ -99,33 +99,39 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "During our collaboration on our CLI project, The Zen of Jeopardy, I had the privilege of working closely with Wes. Wes' dedication to our project was truly remarkable, particularly in his extensive research on multithreading, which significantly improved the interactivity and elevated the project.",
+      name: "Kat Tannehill",
+      title: "Full Stack Software Engineer",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Wes' creativity and out-of-the-box thinking were invaluable assets to our team. He consistently aimed high and pursued innovative solutions, setting a standard for excellence in our project. Wes' determination and creative mindset make him a standout teammate whom I highly recommend for any project.",
+      name: "Kat Tannehill",
+      title: "Full Stack Software Engineer",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "During our collaboration on our CLI project, The Zen of Jeopardy, I had the privilege of working closely with Wes. Wes' dedication to our project was truly remarkable, particularly in his extensive research on multithreading, which significantly improved the interactivity and elevated the project.",
+      name: "Kat Tannehill",
+      title: "Full Stack Software Engineer",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Wes' creativity and out-of-the-box thinking were invaluable assets to our team. He consistently aimed high and pursued innovative solutions, setting a standard for excellence in our project. Wes' determination and creative mindset make him a standout teammate whom I highly recommend for any project.",
+      name: "Kat Tannehill",
+      title: "Full Stack Software Engineer",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "During our collaboration on our CLI project, The Zen of Jeopardy, I had the privilege of working closely with Wes. Wes' dedication to our project was truly remarkable, particularly in his extensive research on multithreading, which significantly improved the interactivity and elevated the project.",
+      name: "Kat Tannehill",
+      title: "Full Stack Software Engineer",
+    },
+    {
+      quote:
+        "Wes' creativity and out-of-the-box thinking were invaluable assets to our team. He consistently aimed high and pursued innovative solutions, setting a standard for excellence in our project. Wes' determination and creative mindset make him a standout teammate whom I highly recommend for any project.",
+      name: "Kat Tannehill",
+      title: "Full Stack Software Engineer",
     },
   ];
   
