@@ -1,4 +1,5 @@
 "use client"
+import About from "@/components/About";
 import Clients from "@/components/Clients";
 import Footer from "@/components/Footer";
 import Grid from "@/components/Grid";
@@ -14,9 +15,10 @@ export default function Home() {
       <div className="max-w-7xl w-full">
         <FloatingNav navItems={navItems} />
         <Hero />
-        <Grid />
+        <About />
+        {/* <Grid /> */}
         <RecentProjects />
-        <Clients />
+        {/* <Clients /> */}
         <Footer />
       </div>
     </main>

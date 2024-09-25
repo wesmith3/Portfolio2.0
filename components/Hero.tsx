@@ -5,10 +5,11 @@ import { TextGenerateEffect } from "./ui/TextGenerateEffect";
 import MagicButton from "./ui/MagicButton";
 import { FaLocationArrow } from "react-icons/fa";
 import TechStack from "./TechStack";
+import Contact from "./Contact";
 
 function Hero() {
   return (
-    <div className="pb-20 pt-36">
+    <div className="pb-20 pt-96">
       <div>
         <Spotlight
           className="-top-40 -left-10 md:-left-32 md:-top-20 h-screen"
@@ -44,6 +45,7 @@ function Hero() {
               />
 
             </a>
+            <Contact />
         </div>
 
       </div>
