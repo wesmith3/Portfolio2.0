@@ -9,7 +9,7 @@ import Contact from "./Contact";
 
 function Hero() {
   return (
-    <div className="pb-20 pt-96">
+    <div className="pb-20 pt-64">
       <div>
         <Spotlight
           className="-top-40 -left-10 md:-left-32 md:-top-20 h-screen"
