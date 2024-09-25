@@ -5,6 +5,7 @@ import { TextGenerateEffect } from "./ui/TextGenerateEffect";
 import MagicButton from "./ui/MagicButton";
 import { FaLocationArrow } from "react-icons/fa";
 import TechStack from "./TechStack";
+import Contact from "./Contact";
 
 function Hero() {
   return (
@@ -44,6 +45,7 @@ function Hero() {
               />
 
             </a>
+            <Contact />
         </div>
 
       </div>
