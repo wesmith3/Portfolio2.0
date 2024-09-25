@@ -1,6 +1,6 @@
 import React from 'react';
 import { IconType } from 'react-icons';
-import { SiLinkedin, SiGithub, SiMedium } from 'react-icons/si';
+import { SiLinkedin, SiGithub, SiMedium, SiCalendly } from 'react-icons/si';
 
 interface Technology {
   icon: IconType;
@@ -14,6 +14,7 @@ const Contact: React.FC = () => {
     { icon: SiLinkedin, name: 'LinkedIn', color: '#0A66C2', url: 'https://www.linkedin.com/in/wesmith314/' },
     { icon: SiGithub, name: 'GitHub', color: '#FFFFFF', url: 'https://github.com/wesmith3' },
     { icon: SiMedium, name: 'Medium', color: '#FFFFFF', url: 'https://medium.com/@wesmith314' },
+    { icon: SiCalendly, name: 'Calendly', color: '#006BFF', url: 'https://calendly.com/wesmith3/30min' },
   ];
 
   return (
