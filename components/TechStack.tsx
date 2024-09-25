@@ -12,7 +12,7 @@ const TechStack = () => {
   ];
 
   return (
-    <div className="flex justify-center space-x-4 mt-4 mb-5">
+    <div className="flex justify-center space-x-4 mt-4">
       {technologies.map((tech) => (
         <div key={tech.name} className="flex flex-col items-center">
           <tech.icon 

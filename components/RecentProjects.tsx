@@ -7,7 +7,7 @@ function RecentProjects() {
   return (
     <div className='py-20' id="projects">
       <h1 className='heading'>
-        A Small Selection of {' '}
+        My {' '}
         <span className='text-orange font-mono'>PROJECTS</span>
       </h1>
       <div className='flex flex-wrap items-center justify-center p-4 gap-x-24 gap-y-8 mt-10 '>
@@ -40,10 +40,10 @@ function RecentProjects() {
                   ))}
                 </div>
 
-                <div className='flex justify-center items-center'>
+                {/* <div className='flex justify-center items-center'>
                   <p className='flex lg:text-l md:text-xs text-sm text-orange'>Check Live Site</p>
                   <FaLocationArrow  className='ms-3' color='#f97316'/>
-                </div>
+                </div> */}
               </div>
             </PinContainer>
           </div>

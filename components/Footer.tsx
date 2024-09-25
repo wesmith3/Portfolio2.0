@@ -1,6 +1,7 @@
 import React from 'react'
 import MagicButton from './ui/MagicButton'
 import { FaLocationArrow } from 'react-icons/fa'
+import Contact from './Contact'
 
 function Footer() {
   return (
