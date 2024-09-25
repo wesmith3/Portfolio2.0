@@ -16,10 +16,10 @@ function Footer() {
 
       <div className='flex flex-col items-center'>
         <h1 className='heading lg:max-w-[45vw]'>
-          Ready to take <span className='text-orange'>your</span> digital presence to the next level?
+          Are you looking for the <span className='text-orange'>perfect</span> Full Stack Developer?
         </h1>
         <p className='text-white-200 md:mt-10 my-5 text-center'>
-          Reach out to me today and let's discuss how i can help you achieve your goals.
+          Reach out to me today and let's discuss how I can help your team!
         </p>
         <a href='mailto:wesmith314@gmail.com'>
           <MagicButton 
